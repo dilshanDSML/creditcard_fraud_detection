@@ -18,6 +18,7 @@ The dataset used is highly imbalanced, as fraudulent transactions represent a ve
 ---
 
 ## 📂 Dataset
+* data link -- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 * The dataset contains anonymized credit card transactions
 * Features are numerical and obtained through PCA transformation
